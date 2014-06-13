@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-pst-intersect
 Version:	0.2
-Release:	1
+Release:	2
 Summary:	Intersecting arbitrary curves
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-intersect
