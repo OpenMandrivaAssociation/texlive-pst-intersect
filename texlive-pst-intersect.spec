@@ -1,13 +1,13 @@
-# revision 33099
+# revision 33210
 # category Package
 # catalog-ctan /graphics/pstricks/contrib/pst-intersect
-# catalog-date 2014-03-02 00:00:47 +0100
+# catalog-date 2014-03-17 08:20:02 +0100
 # catalog-license lppl
-# catalog-version 0.2
+# catalog-version 0.4
 Name:		texlive-pst-intersect
-Version:	0.2
-Release:	2
-Summary:	Intersecting arbitrary curves
+Version:	0.4
+Release:	1
+Summary:	Compute intersections of arbitrary curves
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-intersect
 License:	LPPL
