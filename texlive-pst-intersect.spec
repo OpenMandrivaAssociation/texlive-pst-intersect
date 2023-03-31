@@ -1,6 +1,6 @@
 Name:		texlive-pst-intersect
 Version:	33210
-Release:	1
+Release:	2
 Summary:	Compute intersections of arbitrary curves
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-intersect
