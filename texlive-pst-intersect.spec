@@ -3,7 +3,7 @@ Version:	33210
 Release:	2
 Summary:	Compute intersections of arbitrary curves
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-intersect
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-intersect
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-intersect.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-intersect.doc.r%{version}.tar.xz
